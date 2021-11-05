@@ -1,0 +1,1 @@
+python train.py --dataroot /home/alena/skoltech/thesis/dataset/little_data_cycle_GAN/ --name unalligned --model cycle_gan
